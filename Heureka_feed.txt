@@ -4,17 +4,17 @@
     <ITEM_ID>interios-40</ITEM_ID>
     <PRODUCTNAME>Set stolových nôh v tvare štvorca Interio S</PRODUCTNAME>
     <PRODUCT>Set stolových nôh v tvare štvorca Interio S</PRODUCT>
-    <DESCRIPTION>Ob¾úbené industriálne štvorcové nohy Interio S, s rozmermi 40cm x 40cm a s profilom 40mm x 20mm sa perfektne hodia pre konferenèné stolíky.</DESCRIPTION>
+    <DESCRIPTION>Obľúbené industriálne štvorcové nohy Interio S, s rozmermi 40cm x 40cm a s profilom 40mm x 20mm sa perfektne hodia pre konferenčné stolíky.</DESCRIPTION>
     <URL>https://kraftomat.sk/stvorcove-nohy/set-stolovych-noh-v-tvare-stvorca-interio-s</URL>
     <IMGURL>https://kraftomat.sk/images/products/5fbd050e92787f4e5de4fdfc/800/stvorec2.png</IMGURL>
     <IMGURL_ALTERNATIVE>https://kraftomat.sk/images/products/5fbd050e92787f4e5de4fdfc/800/Stolik_1000.png</IMGURL_ALTERNATIVE>
     <PRICE_VAT>95</PRICE_VAT>
     <HEUREKA_CPC>0,24</HEUREKA_CPC>
     <MANUFACTURER>KRAFTOMAT</MANUFACTURER>
-    <CATEGORYTEXT>Heureka.sk | Nábytok | Jedáleò | Jedálenské stoly</CATEGORYTEXT>
+    <CATEGORYTEXT>Heureka.sk | Nábytok | Jedáleň | Jedálenské stoly</CATEGORYTEXT>
     <PARAM>
       <PARAM_NAME>Farba</PARAM_NAME>
-      <VAL>èierna</VAL>
+      <VAL>čierna</VAL>
     </PARAM>
     <DELIVERY_DATE>14</DELIVERY_DATE>
     <DELIVERY>
