@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<products>
+<product>
+    <name>Set stolových nôh v tvare štvorca Interio S 40cm x 40cm s profilom 40mm x 20 mm</name>
+    <description>Ob¾úbené industriálne štvorcové nohy Interio S, s rozmermi 40cm x 40cm a s profilom 40mm x 20mm sa perfektne hodia pre konferenèné stolíky.</description>
+    <url>https://kraftomat.sk/stvorcove-nohy/set-stolovych-noh-v-tvare-stvorca-interio-s</url>
+    <picture>https://kraftomat.sk/images/products/5fbd050e92787f4e5de4fdfc/800/stvorec2.png</picture>
+    <price>95</price>
+    <manufacturer>KRAFTOMAT</manufacturer>
+    <category>  Dom, byt a záhrada > Dom a byt > Nábytok > Stoly a stolíky </category>
+    <shipping>15</shipping>
+    <availability>14</availability>
+  </product>
+  <product>
+      <name>Set stolových nôh v tvare štvorca Interio S 73cm x 70cm s profilom 40mm x 20 mm</name>
+    <description>Interio S 73cm x 70cm sú ve¾mi ob¾úbeným typom nôh pre jedálenské stoly.</description>
+    <url>https://kraftomat.sk/stvorcove-nohy/set-stolovych-noh-v-tvare-stvorca-interio-s</url>
+    <picture>https://kraftomat.sk/images/products/5fbd050e92787f4e5de4fdfc/800/stvorec2.png</picture>
+    <price>119</price>
+    <manufacturer>KRAFTOMAT</manufacturer>
+    <category>  Dom, byt a záhrada > Dom a byt > Nábytok > Stoly a stolíky </category>
+    <shipping>15</shipping>
+    <availability>14</availability>
+  </product>
+</product>
