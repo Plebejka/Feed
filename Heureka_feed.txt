@@ -2,52 +2,52 @@
 <SHOP>
   <SHOPITEM>
     <ITEM_ID>interios-40</ITEM_ID>
-    <PRODUCTNAME>Set stolovıch nôh v tvare štvorca Interio S</PRODUCTNAME>
-    <PRODUCT>Set stolovıch nôh v tvare štvorca Interio S</PRODUCT>
-    <DESCRIPTION>Ob¾úbené industriálne štvorcové nohy Interio S, s rozmermi 40cm x 40cm a s profilom 40mm x 20mm sa perfektne hodia pre konferenèné stolíky.</DESCRIPTION>
+    <PRODUCTNAME>Set stolovÃ½ch nÃ´h v tvare Å¡tvorca Interio S</PRODUCTNAME>
+    <PRODUCT>Set stolovÃ½ch nÃ´h v tvare Å¡tvorca Interio S</PRODUCT>
+    <DESCRIPTION>ObÂ¾ÃºbenÃ© industriÃ¡lne Å¡tvorcovÃ© nohy Interio S, s rozmermi 40cm x 40cm a s profilom 40mm x 20mm sa perfektne hodia pre konferenÃ¨nÃ© stolÃ­ky.</DESCRIPTION>
     <URL>https://kraftomat.sk/stvorcove-nohy/set-stolovych-noh-v-tvare-stvorca-interio-s</URL>
     <IMGURL>https://kraftomat.sk/images/products/5fbd050e92787f4e5de4fdfc/800/stvorec2.png</IMGURL>
     <IMGURL_ALTERNATIVE>https://kraftomat.sk/images/products/5fbd050e92787f4e5de4fdfc/800/Stolik_1000.png</IMGURL_ALTERNATIVE>
     <PRICE_VAT>95</PRICE_VAT>
     <HEUREKA_CPC>0,24</HEUREKA_CPC>
     <MANUFACTURER>KRAFTOMAT</MANUFACTURER>
-    <CATEGORYTEXT>Heureka.sk | Nábytok | Jedáleò | Jedálenské stoly</CATEGORYTEXT>
+    <CATEGORYTEXT>Heureka.sk | NÃ¡bytok | JedÃ¡leÃ² | JedÃ¡lenskÃ© stoly</CATEGORYTEXT>
     <PARAM>
       <PARAM_NAME>Farba</PARAM_NAME>
-      <VAL>èierna</VAL>
+      <VAL>Ã¨ierna</VAL>
     </PARAM>
     <DELIVERY_DATE>14</DELIVERY_DATE>
     <DELIVERY>
-      <DELIVERY_ID>Expres kuriér</DELIVERY_ID>
+      <DELIVERY_ID>Expres kuriÃ©r</DELIVERY_ID>
       <DELIVERY_PRICE>15</DELIVERY_PRICE>
       <DELIVERY_PRICE_COD>16,50</DELIVERY_PRICE_COD>
     </DELIVERY>
     <ITEMGROUP_ID>interios</ITEMGROUP_ID>
-    <GIFT>Podloky pod nohy proti poškrabaniu podlahy</GIFT>
+    <GIFT>PodloÅ¾ky pod nohy proti poÅ¡krabaniu podlahy</GIFT>
   </SHOPITEM>
   <SHOPITEM>
       <ITEM_ID>interios-73</ITEM_ID>
-    <PRODUCTNAME>Set stolovıch nôh v tvare štvorca Interio S</PRODUCTNAME>
-    <PRODUCT>Set stolovıch nôh v tvare štvorca Interio S</PRODUCT>
-    <DESCRIPTION>Unikátne stolové podnoe pre Váš unikátnı domov. Ob¾úbené industriálne štvorcové nohy Interio S pre jedálenskı stôl.</DESCRIPTION>
+    <PRODUCTNAME>Set stolovÃ½ch nÃ´h v tvare Å¡tvorca Interio S</PRODUCTNAME>
+    <PRODUCT>Set stolovÃ½ch nÃ´h v tvare Å¡tvorca Interio S</PRODUCT>
+    <DESCRIPTION>UnikÃ¡tne stolovÃ© podnoÅ¾e pre VÃ¡Å¡ unikÃ¡tnÃ½ domov. ObÂ¾ÃºbenÃ© industriÃ¡lne Å¡tvorcovÃ© nohy Interio S pre jedÃ¡lenskÃ½ stÃ´l.</DESCRIPTION>
     <URL>https://kraftomat.sk/stvorcove-nohy/set-stolovych-noh-v-tvare-stvorca-interio-s</URL>
     <IMGURL>https://kraftomat.sk/images/products/5fbd050e92787f4e5de4fdfc/800/stvorec2.png</IMGURL>
     <IMGURL_ALTERNATIVE>https://kraftomat.sk/images/products/5fbd050e92787f4e5de4fdfc/800/Stolik_1000.png</IMGURL_ALTERNATIVE>
     <PRICE_VAT>119</PRICE_VAT>
     <HEUREKA_CPC>0,24</HEUREKA_CPC>
     <MANUFACTURER>KRAFTOMAT</MANUFACTURER>
-    <CATEGORYTEXT>Heureka.sk | Nábytok | Jedáleò | Jedálenské stoly</CATEGORYTEXT>
+    <CATEGORYTEXT>Heureka.sk | NÃ¡bytok | JedÃ¡leÃ² | JedÃ¡lenskÃ© stoly</CATEGORYTEXT>
     <PARAM>
       <PARAM_NAME>Farba</PARAM_NAME>
-      <VAL>èierna</VAL>
+      <VAL>Ã¨ierna</VAL>
     </PARAM>
     <DELIVERY_DATE>14</DELIVERY_DATE>
     <DELIVERY>
-      <DELIVERY_ID>Expres kuriér</DELIVERY_ID>
+      <DELIVERY_ID>Expres kuriÃ©r</DELIVERY_ID>
       <DELIVERY_PRICE>15</DELIVERY_PRICE>
       <DELIVERY_PRICE_COD>16,50</DELIVERY_PRICE_COD>
     </DELIVERY>
     <ITEMGROUP_ID>interios</ITEMGROUP_ID>
-    <GIFT>Podloky pod nohy proti poškrabaniu podlahy</GIFT>
+    <GIFT>PodloÅ¾ky pod nohy proti poÅ¡krabaniu podlahy</GIFT>
   </SHOPITEM>
 </SHOP>
