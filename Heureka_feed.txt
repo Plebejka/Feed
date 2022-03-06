@@ -37,7 +37,8 @@
     <PRICE_VAT>349</PRICE_VAT>
     <HEUREKA_CPC>0,24</HEUREKA_CPC>
     <MANUFACTURER>KRAFTOMAT</MANUFACTURER>
-    <CATEGORYTEXT>Heureka.sk | Nábytok | Jedáleň | Jedálenské stoly</CATEGORYTEXT>
+    <CATEGORY_NAME>Kovanie</CATEGORY_NAME>
+    <CATEGORY_FULLNAME>Heureka.sk | Stavebniny | Železiarstvo | Kovanie</CATEGORY_FULLNAME>
     <PARAM>
       <PARAM_NAME>Farba</PARAM_NAME>
       <VAL>čierna</VAL>
@@ -53,7 +54,6 @@
     </DELIVERY>
     <GIFT>Podložky pod nohy proti poškrabaniu podlahy</GIFT>
   </SHOPITEM>
-  
     <SHOPITEM>
     <ITEM_ID>Konštrukcia Spider 2</ITEM_ID>
 	 <stock_quantity>1</stock_quantity>
@@ -66,7 +66,8 @@
     <PRICE_VAT>379</PRICE_VAT>
     <HEUREKA_CPC>0,24</HEUREKA_CPC>
     <MANUFACTURER>KRAFTOMAT</MANUFACTURER>
-    <CATEGORYTEXT>Heureka.sk | Nábytok | Jedáleň | Jedálenské stoly</CATEGORYTEXT>
+    <CATEGORY_NAME>Kovanie</CATEGORY_NAME>
+    <CATEGORY_FULLNAME>Heureka.sk | Stavebniny | Železiarstvo | Kovanie</CATEGORY_FULLNAME>
     <PARAM>
       <PARAM_NAME>Farba</PARAM_NAME>
       <VAL>čierna</VAL>
