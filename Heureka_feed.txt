@@ -1,51 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SHOP>
   <SHOPITEM>
-    <ITEM_ID>antraM</ITEM_ID>
+    <ITEM_ID>Stolová noha typu Hairpin - dvojvlasec 20cm</ITEM_ID>
 	 <stock_quantity>1</stock_quantity>
-    <PRODUCTNAME>Set stolových nôh v tvare štvorca Antra M</PRODUCTNAME>
-    <PRODUCT>Set stolových nôh v tvare štvorca Antra M</PRODUCT>
-    <DESCRIPTION>Ručne vyrobené obľúbené industriálne štvorcové nohy Antra M. S výškou 72cm a šírkou 60cm a joklovým profilom 8x2cm sa skvele hodia pre jedálenské stoly. </DESCRIPTION>
-    <URL>https://kraftomat.sk/na-sklade/set-stolovych-noh-v-tvare-stvorca-antra-m?src=heureka</URL>
-    <IMGURL>https://kraftomat.sk/images/products/61155301038d275722a23089/800/Stolove_nohy_antracit_zosikma.png</IMGURL>
-    <IMGURL_ALTERNATIVE>https://kraftomat.sk/images/products/61155301038d275722a23089/800/Stolove_nohy_antracit3.png</IMGURL_ALTERNATIVE>
-    <PRICE_VAT>119</PRICE_VAT>
+    <PRODUCTNAME>Stolová noha typu Hairpin - dvojvlasec 20cm</PRODUCTNAME>
+    <PRODUCT>Stolová noha typu Hairpin - dvojvlasec 20cm</PRODUCT>
+    <DESCRIPTION>Tieto ručne vyrobené obľúbené oceľové nohy typu Hairpin s výškou 20cm sa hodia ako aj na Váš štýlový konferenčný stolík, tak aj pod Vašu najnovšiu skrinku.</DESCRIPTION>
+    <URL>https://kraftomat.sk/na-sklade/stolova-noha-typu-hairpin-dvojvlasec-20-cm?src=heureka</URL>
+    <IMGURL>https://kraftomat.sk/images/products/61b883108c8a5804de29d8d2/800/Stolova_noha_typu_Hairpin_cierna_dvojvlasec.png</IMGURL>
+    <PRICE_VAT>10,90</PRICE_VAT>
     <HEUREKA_CPC>0,24</HEUREKA_CPC>
     <MANUFACTURER>KRAFTOMAT</MANUFACTURER>
     <CATEGORYTEXT>Heureka.sk | Nábytok | Jedáleň | Jedálenské stoly</CATEGORYTEXT>
     <PARAM>
       <PARAM_NAME>Farba</PARAM_NAME>
-      <VAL>antracit</VAL>
+      <VAL>čierna</VAL>
       <PARAM_NAME>Rozmery nôh</PARAM_NAME>
-      <VAL>72cmx60cm</VAL>
+      <VAL>20cm</VAL>
     </PARAM>
    <DELIVERY_DATE>0</DELIVERY_DATE>
     <DELIVERY>
       <DELIVERY_ID>SLOVENSKA_POSTA</DELIVERY_ID>
-      <DELIVERY_PRICE>13.90</DELIVERY_PRICE>
+      <DELIVERY_PRICE>4.90</DELIVERY_PRICE>
     </DELIVERY>
     <GIFT>Podložky pod nohy proti poškrabaniu podlahy</GIFT>
   </SHOPITEM>
   <SHOPITEM>
-    <ITEM_ID>šarkaM</ITEM_ID>
+    <ITEM_ID>Konštrukcia krížova 2</ITEM_ID>
 	 <stock_quantity>1</stock_quantity>
-    <PRODUCTNAME>Set stolových nôh v tvare štvorca Šárka M</PRODUCTNAME>
-    <PRODUCT>Set stolových nôh v tvare štvorca Šárka M</PRODUCT>
-    <DESCRIPTION>Ručne vyrobené kovové stolové nohy Šárka v tvare štvorca. Minimalistický dizajn pre Vašu kuchyňu. </DESCRIPTION>
-    <URL>https://kraftomat.sk/na-sklade/set-stolovych-noh-v-tvare-stvorca-sarka-m?src=heureka</URL>
-    <IMGURL>https://kraftomat.sk/images/products/61156095038d275722a23090/800/Set_stolovych_noh_Sarka_zboku2.png</IMGURL>
-    <IMGURL_ALTERNATIVE>https://kraftomat.sk/images/products/61156095038d275722a23090/800/Set_stolovych_noh_Sarka3.png</IMGURL_ALTERNATIVE>
-    <PRICE_VAT>119</PRICE_VAT>
+    <PRODUCTNAME>Konštrukcia krížova 2</PRODUCTNAME>
+    <PRODUCT>Konštrukcia krížova 2</PRODUCT>
+    <DESCRIPTION>Jedinečná krížová stolová konštrukcia, ktorá sa bude perfektne vynímať či už vo Vašej kuchyni, alebo v kancelárií. Kalibrovaná oceľ poskytuje výbornú stabilitu.</DESCRIPTION>
+    <URL>https://kraftomat.sk/na-sklade/konstrukcia-krizova-2?src=heureka</URL>
+    <IMGURL>https://kraftomat.sk/images/products/61b887938c8a5804de29d8d4/800/stolova_konstrukcia_krizova_podnoz5.png</IMGURL>
+    <IMGURL_ALTERNATIVE>https://kraftomat.sk/images/products/61b887938c8a5804de29d8d4/800/stolova_konstrukcia_krizova_podnoz.png</IMGURL_ALTERNATIVE>
+    <PRICE_VAT>349</PRICE_VAT>
     <HEUREKA_CPC>0,24</HEUREKA_CPC>
     <MANUFACTURER>KRAFTOMAT</MANUFACTURER>
     <CATEGORYTEXT>Heureka.sk | Nábytok | Jedáleň | Jedálenské stoly</CATEGORYTEXT>
     <PARAM>
       <PARAM_NAME>Farba</PARAM_NAME>
-      <VAL>biela</VAL>
+      <VAL>čierna</VAL>
       <PARAM_NAME>Rozmery nôh</PARAM_NAME>
-      <VAL>72cmx60cm</VAL>
+      <VAL>72,5cm</VAL>
       <PARAM_NAME>Rozmery joklového profilu</PARAM_NAME>
-      <VAL>8cmx2cm</VAL>
+      <VAL>8cmx8cm</VAL>
     </PARAM>
    <DELIVERY_DATE>0</DELIVERY_DATE>
     <DELIVERY>
@@ -54,26 +53,27 @@
     </DELIVERY>
     <GIFT>Podložky pod nohy proti poškrabaniu podlahy</GIFT>
   </SHOPITEM>
+  
     <SHOPITEM>
-    <ITEM_ID>mariXXL</ITEM_ID>
+    <ITEM_ID>Konštrukcia Spider 2</ITEM_ID>
 	 <stock_quantity>1</stock_quantity>
-    <PRODUCTNAME>Set stolových nôh v tvare štvorca Mari XXL</PRODUCTNAME>
-    <PRODUCT>Set stolových nôh v tvare štvorca Mari XXL</PRODUCT>
-    <DESCRIPTION>Industriálne kovové podnože Mari dodajú šmrnc aj Vášmu nábytku.</DESCRIPTION>
-    <URL>https://kraftomat.sk/na-sklade/set-stolovych-noh-v-tvare-stvorca-mari-xxl?src=heureka</URL>
-    <IMGURL>https://kraftomat.sk/images/products/6117c7f80528c9313fe34684/800/Set_stolovych_noh_Mari.png</IMGURL>
-    <IMGURL_ALTERNATIVE>https://kraftomat.sk/images/products/6117c7f80528c9313fe34684/800/Set_stolovych_noh_Mari2.png</IMGURL_ALTERNATIVE>
-    <PRICE_VAT>129</PRICE_VAT>
+    <PRODUCTNAME>Konštrukcia Spider 2</PRODUCTNAME>
+    <PRODUCT>Konštrukcia Spider 2</PRODUCT>
+    <DESCRIPTION>Industriálna kovová konštrukcia Spider dodá šmrnc aj Vášmu nábytku. Je vhodná aj na Väčšie stoly. </DESCRIPTION>
+    <URL>https://kraftomat.sk/na-sklade/konstrukcia-spider-2?src=heureka</URL>
+    <IMGURL>https://kraftomat.sk/images/products/61b889ab8c8a5804de29d8dc/800/stolova_konstrukcia_spider_podnoz5.png</IMGURL>
+    <IMGURL_ALTERNATIVE>https://kraftomat.sk/images/products/61b889ab8c8a5804de29d8dc/800/stolova_konstrukcia_spider_podnoz.png</IMGURL_ALTERNATIVE>
+    <PRICE_VAT>379</PRICE_VAT>
     <HEUREKA_CPC>0,24</HEUREKA_CPC>
     <MANUFACTURER>KRAFTOMAT</MANUFACTURER>
     <CATEGORYTEXT>Heureka.sk | Nábytok | Jedáleň | Jedálenské stoly</CATEGORYTEXT>
     <PARAM>
       <PARAM_NAME>Farba</PARAM_NAME>
-      <VAL>antracit</VAL>
+      <VAL>čierna</VAL>
       <PARAM_NAME>Rozmery nôh</PARAM_NAME>
-      <VAL>72cmx60cm</VAL>
+      <VAL>70,5cm</VAL>
       <PARAM_NAME>Rozmery joklového profilu</PARAM_NAME>
-      <VAL>10cmx2cm</VAL>
+      <VAL>8cmx4cm</VAL>
     </PARAM>
    <DELIVERY_DATE>0</DELIVERY_DATE>
     <DELIVERY>
@@ -134,30 +134,3 @@
     </DELIVERY>
     <GIFT>Podložky pod nohy proti poškrabaniu podlahy</GIFT>
   </SHOPITEM>
-<SHOPITEM>
-    <ITEM_ID>bardM</ITEM_ID>
-	 <stock_quantity>1</stock_quantity>
-    <PRODUCTNAME>Set stolových nôh v tvare štvorca Bard M</PRODUCTNAME>
-    <PRODUCT>Set stolových nôh v tvare štvorca Bard M</PRODUCT>
-    <DESCRIPTION>Ručne vyrobené obľúbené industriálne štvorcové nohy Antra M. S výškou 72cm a šírkou 60cm a joklovým profilom 8x2cm sa skvele hodia pre jedálenské stoly. </DESCRIPTION>
-    <URL>https://kraftomat.sk/na-sklade/set-stolovych-noh-v-tvare-stvorca-bard-m?src=heureka</URL>
-    <IMGURL>https://kraftomat.sk/images/products/61157932038d275722a2309c/800/Set_stolovych_noh_Bard.png</IMGURL>
-    <IMGURL_ALTERNATIVE>https://kraftomat.sk/images/products/61157932038d275722a2309c/800/Set_stolovych_noh_Bard_zvrchu2.png</IMGURL_ALTERNATIVE>
-    <PRICE_VAT>119</PRICE_VAT>
-    <HEUREKA_CPC>0,24</HEUREKA_CPC>
-    <MANUFACTURER>KRAFTOMAT</MANUFACTURER>
-    <CATEGORYTEXT>Heureka.sk | Nábytok | Jedáleň | Jedálenské stoly</CATEGORYTEXT>
-    <PARAM>
-      <PARAM_NAME>Farba</PARAM_NAME>
-      <VAL>čierna</VAL>
-      <PARAM_NAME>Rozmery nôh</PARAM_NAME>
-      <VAL>72cmx60cm</VAL>
-    </PARAM>
-   <DELIVERY_DATE>0</DELIVERY_DATE>
-    <DELIVERY>
-      <DELIVERY_ID>SLOVENSKA_POSTA</DELIVERY_ID>
-      <DELIVERY_PRICE>13.90</DELIVERY_PRICE>
-    </DELIVERY>
-    <GIFT>Podložky pod nohy proti poškrabaniu podlahy</GIFT>
-  </SHOPITEM>
-</SHOP>
