@@ -92,7 +92,7 @@
     <URL>https://kraftomat.sk/na-sklade/set-stolovyh-noh-v-tvare-stvorca-superio?src=heureka</URL>
     <IMGURL>https://kraftomat.sk/images/products/6117d9ae0528c9313fe3468d/800/Set_kovovych_stolovych_noh_Superio3.png</IMGURL>
     <IMGURL_ALTERNATIVE>https://kraftomat.sk/images/products/6117d9ae0528c9313fe3468d/800/Set_kovovych_stolovych_noh_Superio.png</IMGURL_ALTERNATIVE>
-    <PRICE_VAT>89</PRICE_VAT>
+    <PRICE_VAT>95</PRICE_VAT>
     <HEUREKA_CPC>0,24</HEUREKA_CPC>
     <MANUFACTURER>KRAFTOMAT</MANUFACTURER>
     <CATEGORYTEXT>Heureka.sk | Nábytok | Jedáleň | Jedálenské stoly</CATEGORYTEXT>
@@ -118,7 +118,7 @@
     <URL>https://kraftomat.sk/na-sklade/set-stolovych-noh-klaud?src=heureka</URL>
     <IMGURL>https://kraftomat.sk/images/products/6117ee390528c9313fe34692/800/Kovove_stolove_nohy_Klaud.png</IMGURL>
     <IMGURL_ALTERNATIVE>https://kraftomat.sk/images/products/6117ee390528c9313fe34692/800/Kovove_stolove_nohy_Klaud_dvojka3.png</IMGURL_ALTERNATIVE>
-    <PRICE_VAT>99</PRICE_VAT>
+    <PRICE_VAT>97</PRICE_VAT>
     <HEUREKA_CPC>0,24</HEUREKA_CPC>
     <MANUFACTURER>KRAFTOMAT</MANUFACTURER>
     <CATEGORYTEXT>Heureka.sk | Nábytok | Jedáleň | Jedálenské stoly</CATEGORYTEXT>
