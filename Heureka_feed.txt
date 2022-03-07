@@ -135,3 +135,4 @@
     </DELIVERY>
     <GIFT>Podložky pod nohy proti poškrabaniu podlahy</GIFT>
   </SHOPITEM>
+  </SHOP>
