@@ -11,7 +11,8 @@
     <PRICE_VAT>10,90</PRICE_VAT>
     <HEUREKA_CPC>0,24</HEUREKA_CPC>
     <MANUFACTURER>KRAFTOMAT</MANUFACTURER>
-    <CATEGORYTEXT>Heureka.sk | Nábytok | Jedáleň | Jedálenské stoly</CATEGORYTEXT>
+    <CATEGORY_NAME>Kovanie</CATEGORY_NAME>
+    <CATEGORY_FULLNAME>Heureka.sk | Stavebniny | Železiarstvo | Kovanie</CATEGORY_FULLNAME>
     <PARAM>
       <PARAM_NAME>Farba</PARAM_NAME>
       <VAL>čierna</VAL>
@@ -95,7 +96,8 @@
     <PRICE_VAT>95</PRICE_VAT>
     <HEUREKA_CPC>0,24</HEUREKA_CPC>
     <MANUFACTURER>KRAFTOMAT</MANUFACTURER>
-    <CATEGORYTEXT>Heureka.sk | Nábytok | Jedáleň | Jedálenské stoly</CATEGORYTEXT>
+    <CATEGORY_NAME>Kovanie</CATEGORY_NAME>
+    <CATEGORY_FULLNAME>Heureka.sk | Stavebniny | Železiarstvo | Kovanie</CATEGORY_FULLNAME>
     <PARAM>
       <PARAM_NAME>Farba</PARAM_NAME>
       <VAL>čierna</VAL>
@@ -121,7 +123,8 @@
     <PRICE_VAT>97</PRICE_VAT>
     <HEUREKA_CPC>0,24</HEUREKA_CPC>
     <MANUFACTURER>KRAFTOMAT</MANUFACTURER>
-    <CATEGORYTEXT>Heureka.sk | Nábytok | Jedáleň | Jedálenské stoly</CATEGORYTEXT>
+    <CATEGORY_NAME>Kovanie</CATEGORY_NAME>
+    <CATEGORY_FULLNAME>Heureka.sk | Stavebniny | Železiarstvo | Kovanie</CATEGORY_FULLNAME>
     <PARAM>
       <PARAM_NAME>Farba</PARAM_NAME>
       <VAL>čierna</VAL>
