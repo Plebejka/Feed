@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SHOP>
   <SHOPITEM>
-    <ITEM_ID>Stolová noha typu Hairpin - dvojvlasec 20cm</ITEM_ID>
+    <ITEM_ID>Hairpin20cm</ITEM_ID>
 	 <stock_quantity>1</stock_quantity>
     <PRODUCTNAME>Stolová noha typu Hairpin - dvojvlasec 20cm</PRODUCTNAME>
     <PRODUCT>Stolová noha typu Hairpin - dvojvlasec 20cm</PRODUCT>
@@ -138,7 +138,7 @@
   
   
   <SHOPITEM>
-    <ITEM_ID>Nórsky Sobí mach Lesný Svetlozelený</ITEM_ID>
+    <ITEM_ID>NórskySobíMachSvetlozelený500g</ITEM_ID>
 	 <stock_quantity>1</stock_quantity>
     <PRODUCTNAME>Nórsky Sobí mach Lesný Svetlozelený</PRODUCTNAME>
     <PRODUCT>Nórsky Sobí mach Lesný Svetlozelený</PRODUCT>
