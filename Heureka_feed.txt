@@ -152,7 +152,8 @@
     <PRICE_VAT>15</PRICE_VAT>
     <HEUREKA_CPC>0,24</HEUREKA_CPC>
     <MANUFACTURER>KRAFTOMAT</MANUFACTURER>
-    <CATEGORY_NAME>Rastlinné alternatívy</CATEGORY_NAME>
+    <CATEGORY_NAME>Kvety</CATEGORY_NAME>
+	<CATEGORY_FULLNAME>Heureka.sk | Nábytok | Bytové doplnky a dekorácie | Kvety a stojany | Kvety</CATEGORY_FULLNAME
     <PARAM>
       <PARAM_NAME>Farba</PARAM_NAME>
       <VAL>svetlozelená</VAL>
