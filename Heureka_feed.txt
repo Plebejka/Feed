@@ -137,9 +137,7 @@
       <DELIVERY_PRICE>13.90</DELIVERY_PRICE>
     </DELIVERY>
     <GIFT>Podložky pod nohy proti poškrabaniu podlahy</GIFT>
-  </SHOPITEM>
-  
-  
+  </SHOPITEM>  
   <SHOPITEM>
     <ITEM_ID>StabilizovanýMach</ITEM_ID>
 	 <stock_quantity>1</stock_quantity>
@@ -156,7 +154,7 @@
 	<CATEGORY_FULLNAME>Heureka.sk | Nábytok | Bytové doplnky a dekorácie | Kvety a stojany | Kvety</CATEGORY_FULLNAME
     <PARAM>
       <PARAM_NAME>Farba</PARAM_NAME>
-      <VAL>svetlozelená</VAL>
+      <VAL>svetlázelená</VAL>
       <PARAM_NAME>Množstvo</PARAM_NAME>
       <VAL>500g</VAL>
     </PARAM>
