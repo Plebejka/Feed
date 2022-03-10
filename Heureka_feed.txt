@@ -12,7 +12,7 @@
     <HEUREKA_CPC>0,24</HEUREKA_CPC>
     <MANUFACTURER>KRAFTOMAT</MANUFACTURER>
     <CATEGORY_NAME>Kovanie</CATEGORY_NAME>
-    <CATEGORY_FULLNAME>Heureka.sk | Stavebniny | Železiarstvo | Kovanie</CATEGORY_FULLNAME>
+    <CATEGORY_FULLNAME>Heureka.sk | Stavebniny | Železiarstvo | Kovanie | Stolové nohy</CATEGORY_FULLNAME>
     <PARAM>
       <PARAM_NAME>Farba</PARAM_NAME>
       <VAL>čierna</VAL>
@@ -39,7 +39,7 @@
     <HEUREKA_CPC>0,24</HEUREKA_CPC>
     <MANUFACTURER>KRAFTOMAT</MANUFACTURER>
     <CATEGORY_NAME>Kovanie</CATEGORY_NAME>
-    <CATEGORY_FULLNAME>Heureka.sk | Stavebniny | Železiarstvo | Kovanie</CATEGORY_FULLNAME>
+    <CATEGORY_FULLNAME>Heureka.sk | Stavebniny | Železiarstvo | Kovanie | Stolové nohy</CATEGORY_FULLNAME>
     <PARAM>
       <PARAM_NAME>Farba</PARAM_NAME>
       <VAL>čierna</VAL>
@@ -68,7 +68,7 @@
     <HEUREKA_CPC>0,24</HEUREKA_CPC>
     <MANUFACTURER>KRAFTOMAT</MANUFACTURER>
     <CATEGORY_NAME>Kovanie</CATEGORY_NAME>
-    <CATEGORY_FULLNAME>Heureka.sk | Stavebniny | Železiarstvo | Kovanie</CATEGORY_FULLNAME>
+    <CATEGORY_FULLNAME>Heureka.sk | Stavebniny | Železiarstvo | Kovanie | Stolové nohy </CATEGORY_FULLNAME>
     <PARAM>
       <PARAM_NAME>Farba</PARAM_NAME>
       <VAL>čierna</VAL>
@@ -97,7 +97,7 @@
     <HEUREKA_CPC>0,24</HEUREKA_CPC>
     <MANUFACTURER>KRAFTOMAT</MANUFACTURER>
     <CATEGORY_NAME>Kovanie</CATEGORY_NAME>
-    <CATEGORY_FULLNAME>Heureka.sk | Stavebniny | Železiarstvo | Kovanie</CATEGORY_FULLNAME>
+    <CATEGORY_FULLNAME>Heureka.sk | Stavebniny | Železiarstvo | Kovanie | Stolové nohy </CATEGORY_FULLNAME>
     <PARAM>
       <PARAM_NAME>Farba</PARAM_NAME>
       <VAL>čierna</VAL>
@@ -124,7 +124,7 @@
     <HEUREKA_CPC>0,24</HEUREKA_CPC>
     <MANUFACTURER>KRAFTOMAT</MANUFACTURER>
     <CATEGORY_NAME>Kovanie</CATEGORY_NAME>
-    <CATEGORY_FULLNAME>Heureka.sk | Stavebniny | Železiarstvo | Kovanie</CATEGORY_FULLNAME>
+    <CATEGORY_FULLNAME>Heureka.sk | Stavebniny | Železiarstvo | Kovanie | Stolové nohy</CATEGORY_FULLNAME>
     <PARAM>
       <PARAM_NAME>Farba</PARAM_NAME>
       <VAL>čierna</VAL>
@@ -151,7 +151,7 @@
     <HEUREKA_CPC>0,24</HEUREKA_CPC>
     <MANUFACTURER>KRAFTOMAT</MANUFACTURER>
     <CATEGORY_NAME>Kvety</CATEGORY_NAME>
-	<CATEGORY_FULLNAME>Heureka.sk | Nábytok | Bytové doplnky a dekorácie | Kvety a stojany | Kvety</CATEGORY_FULLNAME>
+	<CATEGORY_FULLNAME>Heureka.sk | Nábytok | Bytové doplnky a dekorácie | Bytové dekorácie | Stabilizovaný mach </CATEGORY_FULLNAME>
     <PARAM>
     	<PARAM_NAME>Farba</PARAM_NAME>
       <VAL>svetlázelená</VAL>
