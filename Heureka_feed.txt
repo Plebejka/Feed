@@ -143,11 +143,11 @@
 	 <stock_quantity>1</stock_quantity>
     <PRODUCTNAME>Stabilizovaný Nórsky Sobí mach Lesný Svetlozelený</PRODUCTNAME>
     <PRODUCT>Stabilizovaný Nórsky Sobí mach Lesný Svetlozelený</PRODUCT>
-    <DESCRIPTION>Teraz si môžete vyrobiť aj Vy svoj vlastný machový obraz. Krásna dekorácia dodá Vášmu interieru originálny vzhľad. Medzi fantastické vlastnosti nórskeho    	machu okrem pekného vzhľadu patrí aj pohlcovanie zvuku, či čistenie vzduchu.</DESCRIPTION>
+    <DESCRIPTION>Cena za 100g. V ponuke aj väčšie množstvo. Teraz si môžete vyrobiť aj Vy svoj vlastný machový obraz. Krásna dekorácia dodá Vášmu interieru originálny vzhľad. Medzi fantastické vlastnosti nórskeho machu okrem pekného vzhľadu patrí aj pohlcovanie zvuku, či čistenie vzduchu.</DESCRIPTION>
     <URL>https://kraftomat.sk/stabilizovany-mach/stabilizovany-norsky-sobi-mach-lesny-svetlozeleny?src=heureka</URL>
     <IMGURL>https://kraftomat.sk/images/products/5fbea8937c99244e6f821e02/800/mach_norskz_sobi_lesny_svetlozeleny.png</IMGURL>
     <IMGURL_ALTERNATIVE>https://kraftomat.sk/images/products/5fbea8937c99244e6f821e02/800/mach_v_skatuli.png</IMGURL_ALTERNATIVE>
-    <PRICE_VAT>15</PRICE_VAT>
+    <PRICE_VAT>9</PRICE_VAT>
     <HEUREKA_CPC>0,24</HEUREKA_CPC>
     <MANUFACTURER>KRAFTOMAT</MANUFACTURER>
     <CATEGORY_NAME>Kvety</CATEGORY_NAME>
@@ -156,7 +156,7 @@
     	<PARAM_NAME>Farba</PARAM_NAME>
       <VAL>svetlázelená</VAL>
       <PARAM_NAME>Množstvo</PARAM_NAME>
-      <VAL>500g</VAL>
+      <VAL>100g</VAL>
     </PARAM>
    <DELIVERY_DATE>0</DELIVERY_DATE>
     <DELIVERY>
