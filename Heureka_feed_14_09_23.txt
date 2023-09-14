@@ -101,7 +101,7 @@
     <PRODUCTNAME>Set stolových nôh v tvare štvorca Interio M Výška:72cm Šírka:80cm</PRODUCTNAME>
     <PRODUCT>Set stolových nôh v tvare štvorca Interio M Výška:72cm Šírka:80cm</PRODUCT>
     <DESCRIPTION>Industriálne stolové podnože určené pre jedálenský stôl. Tieto nohy môžete mať už pozajtra u Vás doma.</DESCRIPTION>
-    <URL>https://kraftomat.sk/na-sklade/set-stolovych-noh-v-tvare-stvorca-interio-m-vyska40cm-sirka50cm</URL>
+    <URL>https://kraftomat.sk/na-sklade/set-stolovych-noh-v-tvare-stvorca-interio-m-vyska72cm-sirka80cm</URL>
     <IMGURL>https://kraftomat.sk/images/products/64f875d0a49dfd70637c46ea/800/Noha_stolova_podnoz_sirka_60.jpg</IMGURL>
     <IMGURL_ALTERNATIVE>https://kraftomat.sk/images/products/64f875d0a49dfd70637c46ea/800/Stolova_podnoz_stvorcova.jpg</IMGURL_ALTERNATIVE>
     <PRICE_VAT>165</PRICE_VAT>
@@ -151,7 +151,7 @@
     <PRODUCT>Set stolových nôh Optimo XL Výška:72cm
 </PRODUCT>
     <DESCRIPTION>Klasické stolové podnože na Vás nový jedálenský stôl.</DESCRIPTION>
-    <URL>https://kraftomat.sk/na-sklade/set-stolovych-noh-optimo-m-vyska72cm</URL>
+    <URL>https://kraftomat.sk/na-sklade/set-stolovych-noh-optimo-xl-vyska72cm</URL>
     <IMGURL>https://kraftomat.sk/images/products/63a037773882610533dcd788/800/Nohy_podnoze_klasicke.jpg</IMGURL>
     <IMGURL_ALTERNATIVE>https://kraftomat.sk/images/products/63a037773882610533dcd788/800/optimo_podnoze_klasicke.png</IMGURL_ALTERNATIVE>
     <PRICE_VAT>153</PRICE_VAT>
