@@ -2,18 +2,18 @@
 <SHOP>
   <SHOPITEM>
     <ITEM_ID>Interiom-40-50</ITEM_ID>
-    <PRODUCTNAME>Set stolovıch nôh v tvare štvorca Interio M Vıška:40cm Šírka:50cm</PRODUCTNAME>
-    <PRODUCT>Set stolovıch nôh v tvare štvorca Interio M Vıška:40cm Šírka:50cm</PRODUCT>
-    <DESCRIPTION>Štılové oce¾ové podnoe perfektné pre konferenènı stolík nielen industriálneho štılu.</DESCRIPTION>
+    <PRODUCTNAME>Set stolovÃ½ch nÃ´h v tvare Å¡tvorca Interio M VÃ½Å¡ka:40cm Å Ã­rka:50cm</PRODUCTNAME>
+    <PRODUCT>Set stolovÃ½ch nÃ´h v tvare Å¡tvorca Interio M VÃ½Å¡ka:40cm Å Ã­rka:50cm</PRODUCT>
+    <DESCRIPTION>Å tÃ½lovÃ© oceÄ¾ovÃ© podnoÅ¾e perfektnÃ© pre konferenÄnÃ½ stolÃ­k nielen industriÃ¡lneho Å¡tÃ½lu.</DESCRIPTION>
     <URL>https://kraftomat.sk/na-sklade/set-stolovych-noh-v-tvare-stvorca-interio-m-vyska40cm-sirka50cm</URL>
     <IMGURL>https://kraftomat.sk/images/products/63a032ba3882610533dcd780/800/Stolove_nohy_na_konferencny_stol.png</IMGURL>
     <IMGURL_ALTERNATIVE>https://kraftomat.sk/images/products/63a032ba3882610533dcd780/800/Podnoze_na_konferencny_Stol.png</IMGURL_ALTERNATIVE>
     <PRICE_VAT>119</PRICE_VAT>
     <MANUFACTURER>KRAFTOMAT</MANUFACTURER>
-    <CATEGORYTEXT>Heureka.sk | Nábytok | Stolové podnoe</CATEGORYTEXT>
+    <CATEGORYTEXT>Heureka.sk | NÃ¡bytok | StolovÃ© podnoÅ¾e</CATEGORYTEXT>
     <PARAM>
       <PARAM_NAME>Farba</PARAM_NAME>
-      <VAL>èierna</VAL>
+      <VAL>Äierna</VAL>
     </PARAM>
     <DELIVERY>
       <DELIVERY_ID>GLS</DELIVERY_ID>
@@ -22,22 +22,22 @@
       <DELIVERY_DATE>0</DELIVERY_DATE>
     </DELIVERY>
     <ITEMGROUP_ID>interiom</ITEMGROUP_ID>
-    <GIFT>Podloky pod nohy proti poškrabaniu podlahy</GIFT>
+    <GIFT>PodloÅ¾ky pod nohy proti poÅ¡krabaniu podlahy</GIFT>
   </SHOPITEM>
   <SHOPITEM>
     <ITEM_ID>Interiom-72-50</ITEM_ID>
-    <PRODUCTNAME>Set stolovıch nôh v tvare štvorca Interio M Vıška:72cm Šírka:50cm</PRODUCTNAME>
-    <PRODUCT>Set stolovıch nôh v tvare štvorca Interio M Vıška:72cm Šírka:50cm</PRODUCT>
-    <DESCRIPTION>Dizajnové stolové nohy vhodné pre Váš domov na jedálenskı, alebo pracovnı stôl.</DESCRIPTION>
+    <PRODUCTNAME>Set stolovÃ½ch nÃ´h v tvare Å¡tvorca Interio M VÃ½Å¡ka:72cm Å Ã­rka:50cm</PRODUCTNAME>
+    <PRODUCT>Set stolovÃ½ch nÃ´h v tvare Å¡tvorca Interio M VÃ½Å¡ka:72cm Å Ã­rka:50cm</PRODUCT>
+    <DESCRIPTION>DizajnovÃ© stolovÃ© nohy vhodnÃ© pre VÃ¡Å¡ domov na jedÃ¡lenskÃ½, alebo pracovnÃ½ stÃ´l.</DESCRIPTION>
     <URL>https://kraftomat.sk/na-sklade/set-stolovych-noh-v-tvare-stvorca-interio-m-vyska72cm-sirka50cm</URL>
     <IMGURL>https://kraftomat.sk/images/products/63a02dd93882610533dcd77c/800/Stolova_podnoz_72vyska_50_sirka.jpg</IMGURL>
     <IMGURL_ALTERNATIVE>https://kraftomat.sk/images/products/63a02dd93882610533dcd77c/800/Set_ocelovych_stolovych_noh.png</IMGURL_ALTERNATIVE>
     <PRICE_VAT>125</PRICE_VAT>
     <MANUFACTURER>KRAFTOMAT</MANUFACTURER>
-    <CATEGORYTEXT>Heureka.sk | Nábytok | Stolové podnoe</CATEGORYTEXT>
+    <CATEGORYTEXT>Heureka.sk | NÃ¡bytok | StolovÃ© podnoÅ¾e</CATEGORYTEXT>
     <PARAM>
       <PARAM_NAME>Farba</PARAM_NAME>
-      <VAL>èierna</VAL>
+      <VAL>Äierna</VAL>
     </PARAM>
     <DELIVERY>
       <DELIVERY_ID>GLS</DELIVERY_ID>
@@ -46,22 +46,22 @@
       <DELIVERY_DATE>0</DELIVERY_DATE>
     </DELIVERY>
     <ITEMGROUP_ID>interiom</ITEMGROUP_ID>
-    <GIFT>Podloky pod nohy proti poškrabaniu podlahy</GIFT>
+    <GIFT>PodloÅ¾ky pod nohy proti poÅ¡krabaniu podlahy</GIFT>
   </SHOPITEM>
   <SHOPITEM>
     <ITEM_ID>Interiom-72-60</ITEM_ID>
-    <PRODUCTNAME>Set stolovıch nôh v tvare štvorca Interio M Vıška:72cm Šírka:60cm</PRODUCTNAME>
-    <PRODUCT>Set stolovıch nôh v tvare štvorca Interio M Vıška:72cm Šírka:60cm</PRODUCT>
-    <DESCRIPTION>Stolové podnoe vyrobené z kvalitnej ocele, ktoré sú lakované práškovou farbou.</DESCRIPTION>
+    <PRODUCTNAME>Set stolovÃ½ch nÃ´h v tvare Å¡tvorca Interio M VÃ½Å¡ka:72cm Å Ã­rka:60cm</PRODUCTNAME>
+    <PRODUCT>Set stolovÃ½ch nÃ´h v tvare Å¡tvorca Interio M VÃ½Å¡ka:72cm Å Ã­rka:60cm</PRODUCT>
+    <DESCRIPTION>StolovÃ© podnoÅ¾e vyrobenÃ© z kvalitnej ocele, ktorÃ© sÃº lakovanÃ© prÃ¡Å¡kovou farbou.</DESCRIPTION>
     <URL>https://kraftomat.sk/na-sklade/set-stolovych-noh-v-tvare-stvorca-interio-m-vyska72cm-sirka60cm</URL>
     <IMGURL>https://kraftomat.sk/images/products/63a034023882610533dcd784/800/Stvorcove_podnoze_vyska_72_na_jedalensky_stol.png</IMGURL>
     <IMGURL_ALTERNATIVE>https://kraftomat.sk/images/products/63a034023882610533dcd784/800/Set_stolovych_noh_ocelove_podnoze.png</IMGURL_ALTERNATIVE>
     <PRICE_VAT>135</PRICE_VAT>
     <MANUFACTURER>KRAFTOMAT</MANUFACTURER>
-    <CATEGORYTEXT>Heureka.sk | Nábytok | Stolové podnoe</CATEGORYTEXT>
+    <CATEGORYTEXT>Heureka.sk | NÃ¡bytok | StolovÃ© podnoÅ¾e</CATEGORYTEXT>
     <PARAM>
       <PARAM_NAME>Farba</PARAM_NAME>
-      <VAL>èierna</VAL>
+      <VAL>Äierna</VAL>
     </PARAM>
     <DELIVERY>
       <DELIVERY_ID>GLS</DELIVERY_ID>
@@ -70,22 +70,22 @@
       <DELIVERY_DATE>0</DELIVERY_DATE>
     </DELIVERY>
     <ITEMGROUP_ID>interiom</ITEMGROUP_ID>
-    <GIFT>Podloky pod nohy proti poškrabaniu podlahy</GIFT>
+    <GIFT>PodloÅ¾ky pod nohy proti poÅ¡krabaniu podlahy</GIFT>
   </SHOPITEM>
   <SHOPITEM>
     <ITEM_ID>Interiom-72-70</ITEM_ID>
-    <PRODUCTNAME>Set stolovıch nôh v tvare štvorca Interio M Vıška:72cm Šírka:70cm</PRODUCTNAME>
-    <PRODUCT>Set stolovıch nôh v tvare štvorca Interio M Vıška:72cm Šírka:70cm</PRODUCT>
-    <DESCRIPTION>Industriálne štvorcové nohy, perfektná vo¾ba pre jedálensky stôl.</DESCRIPTION>
+    <PRODUCTNAME>Set stolovÃ½ch nÃ´h v tvare Å¡tvorca Interio M VÃ½Å¡ka:72cm Å Ã­rka:70cm</PRODUCTNAME>
+    <PRODUCT>Set stolovÃ½ch nÃ´h v tvare Å¡tvorca Interio M VÃ½Å¡ka:72cm Å Ã­rka:70cm</PRODUCT>
+    <DESCRIPTION>IndustriÃ¡lne Å¡tvorcovÃ© nohy, perfektnÃ¡ voÄ¾ba pre jedÃ¡lensky stÃ´l.</DESCRIPTION>
     <URL>https://kraftomat.sk/na-sklade/set-stolovych-noh-v-tvare-stvorca-interio-m-vyska72cm-sirka70cm</URL>
     <IMGURL>https://kraftomat.sk/images/products/63a022533882610533dcd776/800/Set_ocelovych_stolovych_noh.png</IMGURL>
     <IMGURL_ALTERNATIVE>https://kraftomat.sk/images/products/63a022533882610533dcd776/800/Stolova_noha_stvorcova_na_jedalensky_stol.jpg</IMGURL_ALTERNATIVE>
     <PRICE_VAT>146</PRICE_VAT>
     <MANUFACTURER>KRAFTOMAT</MANUFACTURER>
-    <CATEGORYTEXT>Heureka.sk | Nábytok | Stolové podnoe</CATEGORYTEXT>
+    <CATEGORYTEXT>Heureka.sk | NÃ¡bytok | StolovÃ© podnoÅ¾e</CATEGORYTEXT>
     <PARAM>
       <PARAM_NAME>Farba</PARAM_NAME>
-      <VAL>èierna</VAL>
+      <VAL>Äierna</VAL>
     </PARAM>
     <DELIVERY>
       <DELIVERY_ID>GLS</DELIVERY_ID>
@@ -94,22 +94,22 @@
       <DELIVERY_DATE>0</DELIVERY_DATE>
     </DELIVERY>
     <ITEMGROUP_ID>interiom</ITEMGROUP_ID>
-    <GIFT>Podloky pod nohy proti poškrabaniu podlahy</GIFT>
+    <GIFT>PodloÅ¾ky pod nohy proti poÅ¡krabaniu podlahy</GIFT>
   </SHOPITEM>
   <SHOPITEM>
     <ITEM_ID>Interiom-72-80</ITEM_ID>
-    <PRODUCTNAME>Set stolovıch nôh v tvare štvorca Interio M Vıška:72cm Šírka:80cm</PRODUCTNAME>
-    <PRODUCT>Set stolovıch nôh v tvare štvorca Interio M Vıška:72cm Šírka:80cm</PRODUCT>
-    <DESCRIPTION>Industriálne stolové podnoe urèené pre jedálenskı stôl. Tieto nohy môete ma u pozajtra u Vás doma.</DESCRIPTION>
+    <PRODUCTNAME>Set stolovÃ½ch nÃ´h v tvare Å¡tvorca Interio M VÃ½Å¡ka:72cm Å Ã­rka:80cm</PRODUCTNAME>
+    <PRODUCT>Set stolovÃ½ch nÃ´h v tvare Å¡tvorca Interio M VÃ½Å¡ka:72cm Å Ã­rka:80cm</PRODUCT>
+    <DESCRIPTION>IndustriÃ¡lne stolovÃ© podnoÅ¾e urÄenÃ© pre jedÃ¡lenskÃ½ stÃ´l. Tieto nohy mÃ´Å¾ete maÅ¥ uÅ¾ pozajtra u VÃ¡s doma.</DESCRIPTION>
     <URL>https://kraftomat.sk/na-sklade/set-stolovych-noh-v-tvare-stvorca-interio-m-vyska40cm-sirka50cm</URL>
     <IMGURL>https://kraftomat.sk/images/products/64f875d0a49dfd70637c46ea/800/Noha_stolova_podnoz_sirka_60.jpg</IMGURL>
     <IMGURL_ALTERNATIVE>https://kraftomat.sk/images/products/64f875d0a49dfd70637c46ea/800/Stolova_podnoz_stvorcova.jpg</IMGURL_ALTERNATIVE>
     <PRICE_VAT>165</PRICE_VAT>
     <MANUFACTURER>KRAFTOMAT</MANUFACTURER>
-    <CATEGORYTEXT>Heureka.sk | Nábytok | Stolové podnoe</CATEGORYTEXT>
+    <CATEGORYTEXT>Heureka.sk | NÃ¡bytok | StolovÃ© podnoÅ¾e</CATEGORYTEXT>
     <PARAM>
       <PARAM_NAME>Farba</PARAM_NAME>
-      <VAL>èierna</VAL>
+      <VAL>Äierna</VAL>
     </PARAM>
     <DELIVERY>
       <DELIVERY_ID>GLS</DELIVERY_ID>
@@ -118,22 +118,22 @@
       <DELIVERY_DATE>0</DELIVERY_DATE>
     </DELIVERY>
     <ITEMGROUP_ID>interiom</ITEMGROUP_ID>
-    <GIFT>Podloky pod nohy proti poškrabaniu podlahy</GIFT>
+    <GIFT>PodloÅ¾ky pod nohy proti poÅ¡krabaniu podlahy</GIFT>
   </SHOPITEM>
   <SHOPITEM>
     <ITEM_ID>optimom-72</ITEM_ID>
-    <PRODUCTNAME>Set stolovıch nôh Optimo M Vıška:72cm</PRODUCTNAME>
-    <PRODUCT>Set stolovıch nôh Optimo M Vıška:72cm</PRODUCT>
-    <DESCRIPTION>Minimalistické kovové podnoe ideálne na jedálenskı stôl.</DESCRIPTION>
+    <PRODUCTNAME>Set stolovÃ½ch nÃ´h Optimo M VÃ½Å¡ka:72cm</PRODUCTNAME>
+    <PRODUCT>Set stolovÃ½ch nÃ´h Optimo M VÃ½Å¡ka:72cm</PRODUCT>
+    <DESCRIPTION>MinimalistickÃ© kovovÃ© podnoÅ¾e ideÃ¡lne na jedÃ¡lenskÃ½ stÃ´l.</DESCRIPTION>
     <URL>https://kraftomat.sk/na-sklade/set-stolovych-noh-optimo-m-vyska72cm</URL>
     <IMGURL>https://kraftomat.sk/images/products/64f875d0a49dfd70637c46ea/800/Noha_stolova_podnoz_sirka_60.jpg</IMGURL>
     <IMGURL_ALTERNATIVE>https://kraftomat.sk/images/products/63a039a13882610533dcd78a/800/Nohy_klasicke_so_stolom.jpg</IMGURL_ALTERNATIVE>
     <PRICE_VAT>141</PRICE_VAT>
     <MANUFACTURER>KRAFTOMAT</MANUFACTURER>
-    <CATEGORYTEXT>Heureka.sk | Nábytok | Stolové podnoe</CATEGORYTEXT>
+    <CATEGORYTEXT>Heureka.sk | NÃ¡bytok | StolovÃ© podnoÅ¾e</CATEGORYTEXT>
     <PARAM>
       <PARAM_NAME>Farba</PARAM_NAME>
-      <VAL>èierna</VAL>
+      <VAL>Äierna</VAL>
     </PARAM>
     <DELIVERY>
       <DELIVERY_ID>GLS</DELIVERY_ID>
@@ -142,22 +142,24 @@
       <DELIVERY_DATE>0</DELIVERY_DATE>
     </DELIVERY>
     <ITEMGROUP_ID>optimo</ITEMGROUP_ID>
-    <GIFT>Podloky pod nohy proti poškrabaniu podlahy</GIFT>
+    <GIFT>PodloÅ¾ky pod nohy proti poÅ¡krabaniu podlahy</GIFT>
   </SHOPITEM>
   <SHOPITEM>
     <ITEM_ID>optimoxl-72</ITEM_ID>
-    <PRODUCTNAME>Set stolovıch nôh Optimo XL Vıška:72cm</PRODUCTNAME>
-    <PRODUCT>Set stolovıch nôh Optimo XL Vıška:72cm</PRODUCT>
-    <DESCRIPTION>Klasické stolové podnoe na Vás novı jedálenskı stôl.</DESCRIPTION>
+    <PRODUCTNAME>Set stolovÃ½ch nÃ´h Optimo XL VÃ½Å¡ka:72cm
+</PRODUCTNAME>
+    <PRODUCT>Set stolovÃ½ch nÃ´h Optimo XL VÃ½Å¡ka:72cm
+</PRODUCT>
+    <DESCRIPTION>KlasickÃ© stolovÃ© podnoÅ¾e na VÃ¡s novÃ½ jedÃ¡lenskÃ½ stÃ´l.</DESCRIPTION>
     <URL>https://kraftomat.sk/na-sklade/set-stolovych-noh-optimo-m-vyska72cm</URL>
     <IMGURL>https://kraftomat.sk/images/products/63a037773882610533dcd788/800/Nohy_podnoze_klasicke.jpg</IMGURL>
     <IMGURL_ALTERNATIVE>https://kraftomat.sk/images/products/63a037773882610533dcd788/800/optimo_podnoze_klasicke.png</IMGURL_ALTERNATIVE>
     <PRICE_VAT>153</PRICE_VAT>
     <MANUFACTURER>KRAFTOMAT</MANUFACTURER>
-    <CATEGORYTEXT>Heureka.sk | Nábytok | Stolové podnoe</CATEGORYTEXT>
+    <CATEGORYTEXT>Heureka.sk | NÃ¡bytok | StolovÃ© podnoÅ¾e</CATEGORYTEXT>
     <PARAM>
       <PARAM_NAME>Farba</PARAM_NAME>
-      <VAL>èierna</VAL>
+      <VAL>Äierna</VAL>
     </PARAM>
     <DELIVERY>
       <DELIVERY_ID>GLS</DELIVERY_ID>
@@ -166,6 +168,6 @@
       <DELIVERY_DATE>0</DELIVERY_DATE>
     </DELIVERY>
     <ITEMGROUP_ID>optimo</ITEMGROUP_ID>
-    <GIFT>Podloky pod nohy proti poškrabaniu podlahy</GIFT>
+    <GIFT>PodloÅ¾ky pod nohy proti poÅ¡krabaniu podlahy</GIFT>
   </SHOPITEM>
 </SHOP>
